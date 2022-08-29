@@ -4,7 +4,6 @@
 Manufacturing Engineering and Management Department
 De La Salle University
 2401 Taft Avenue, Manila, Philippines
-
 E-mail: juliah_delavega@dlsu.edu.ph, tonica_garcia@dlsu.edu.ph, richard_palabasan@dlsu.edu.ph,
 robert.billones@dlsu.edu.ph, renann.baldovino@dlsu.edu.ph, john.carlo.puno@dlsu.edu.ph
 
